@@ -17,7 +17,7 @@ def solve_challenge():
     Main task which solves the RPA challenge!
 
     Downloads the source data Excel file and uses Playwright to fill the entries inside
-    rpachallenge.com.
+    rpachallenge.com. teste
     """
     browser.configure(
         browser_engine="chromium",
